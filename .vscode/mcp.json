@@ -1,0 +1,14 @@
+{
+    "inputs": [],
+    "servers": {
+        "MCPApp": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "C:\\Users\\jayan4537\\source\\repos\\GalaxyIchraUpdates\\MCPApp\\MCPApp.csproj"
+            ]
+        }
+    }
+}
